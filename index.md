@@ -28,6 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+![img](https://github.com/mrarthurwhite/css_float_positioning_demo/blob/master/imgs/land.jpg)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrarthurwhite/css_clear_for_float_demo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
